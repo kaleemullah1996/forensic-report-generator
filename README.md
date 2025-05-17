@@ -18,7 +18,7 @@ This Hugging Face Space uses the **llama3-70b-8192** model to generate technical
 
 - Upload damage photos
 - Enter inspection metadata
-- Generate reports using Mixtral
+- Generate reports using llama3
 - Edit output and export as PDF
 
 ---
