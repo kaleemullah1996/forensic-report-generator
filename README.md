@@ -12,7 +12,7 @@ license: apache-2.0
 
 # 🏚️ GenAI Forensic Report Generator
 
-This Hugging Face Space uses the **Mixtral-8x7B-Instruct** model to generate technical forensic reports from damage images and site metadata. Ideal for insurance documentation and repair recommendations.
+This Hugging Face Space uses the **llama3-70b-8192** model to generate technical forensic reports from damage images and site metadata. Ideal for insurance documentation and repair recommendations.
 
 ## Features
 
